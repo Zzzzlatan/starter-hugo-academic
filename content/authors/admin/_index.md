@@ -1,6 +1,6 @@
 ---
-title: "468468"
-role: Professor of Artificial Intelligence
+title: Zheyu Wu
+role: Master student in Robotics at ETH Zurich
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
